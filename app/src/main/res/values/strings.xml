@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="la_gioconda">La Gioconda</string>
+    <string name="leonardo_da_vinci">Leonardo Da Vinci</string>
+    <string name="la_noche_estrellada">La noche estrellada</string>
+    <string name="vincent_van_gogh">Vincent Van Gogh</string>
+    <string name="la_joven_de_la_perla">La joven de la perla</string>
+    <string name="johannes_vermeer">Johannes Vermeer</string>
+    <string name="el_beso">El beso</string>
+    <string name="gustav_klimt">Gustav Klimt</string>
+    <string name="las_meninas">Las Meninas</string>
+    <string name="diego_velazquez">Diego Velázquez</string>
+</resources>
